@@ -1,0 +1,3 @@
+interface Sanduiche {
+  custo(): number;
+}
